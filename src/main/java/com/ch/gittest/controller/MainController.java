@@ -10,7 +10,7 @@ public class MainController {
 	@GetMapping("/test")
 	@ResponseBody
 	public String main() {
-		return "YSM";
+		return "Wongka";
 	}
 	
 }
