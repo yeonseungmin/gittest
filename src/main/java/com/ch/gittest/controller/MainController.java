@@ -10,7 +10,7 @@ public class MainController {
 	@GetMapping("/test")
 	@ResponseBody
 	public String main() {
-		return "YSM";
+		return "회원 공연 관리 개발 완료";
 	}
 	
 }
